@@ -3,12 +3,26 @@ An Hackintosh OpenCore EFI folder created specifically for the Laptop now hackin
 ## Recommended OS Tested
 ![Screenshot 2024-12-06 at 23 34 03](https://github.com/user-attachments/assets/20bce156-44b5-4a41-ac1f-d12d0a04de09)
 ## Installation
+
+# Step 1 Prepare Files
+
 Download the source code with Download button
 
-![Step 1](https://github.com/user-attachments/assets/9b9f5468-5a35-4ea1-b794-2cb7b631ac77)
+![ScreenRecording2024-12-06at23 47 49-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b1157565-b371-4845-8434-655abf5f19df)
+
+Download Ventura image ![Here](https://www.mediafire.com/file/tsi72bc1g6m2rxb/Olarila+Ventura+13.7.1.raw/file)
+
+![ScreenRecording2024-12-06at23 55 05-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/cf4bda23-023d-40a9-9790-a2cab454b206)
+
+# Step 2 Extracting EFI Folder
+
+Extract the EFI Folder
+
+
 
 NOTE: This EFI Configuration will only work Fully with macOS Monterey - Sonoma the EFI may not work fully with older versions such as Catalina - Mojave USE AT YOUR RISK AM NOT RESPONSIBLE FOR ANY DAMAGES
 YOU DONE TO YOUR LAPTOP!
+
 ## Laptop Specs
 
 
