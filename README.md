@@ -40,3 +40,11 @@
 - Thanks to oralia these guys made making the hackintosh EFI for the Laptop possible! [oralia.com](https://olarila.com/)
 - Opencore https://github.com/acidanthera/OpenCorePkg
 - https://github.com/acidanthera/OpenCorePkg for the readme template
+
+## TODO List
+- Fix Sleep (when there is a tutorial or a kext on it)
+- Someone to test AirDrop (Any user is welcome to test it on their iphone and the same configuration Laptop!)
+- NTFS put a driver for it
+- Bluetooth find a way to fix the file transfer protocol on macOS with Bluetooth
+- Dictation find a way to fix it
+- Stress test the laptop
