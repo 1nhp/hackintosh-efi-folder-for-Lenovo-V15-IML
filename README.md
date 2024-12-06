@@ -14,18 +14,21 @@
 | Touchpad            | idk                               |
 
 ## What is working Table
-| Feature | Detail                                                  |
+| Feature | Status                                                  |
 | ------------------- | ------------------------------------------- |
 | Hardware Acceleration|Works|
 | VAPPI| Works|
 | Sound| Works|
 | Microphone| Works|
+| Webcam| Works|
 | Wi-Fi| Works|
+| Bluetooth| Works|
+| Keyboard| Works|
 | Touchpad| Works|
-
-## What Doesn't Work❎
-- Sleep (couldnt managed to fix it it wake ups after being sleeping bro is a all nighter(jk))
-- Airdrop (obviously i aint spending my money on a iphone to test it)
+| USB| Works|
+| AirDrop| Doesn't Work|
+| Battery Manager| Works|
+| Sleep| Doesn't Work|
 
 ## Credits
 - Thanks to oralia these guys made making the hackintosh EFI for the Laptop possible! [oralia.com](https://olarila.com/)
