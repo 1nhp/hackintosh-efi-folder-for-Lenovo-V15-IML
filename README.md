@@ -2,6 +2,10 @@ An Hackintosh OpenCore EFI folder created specifically for the Laptop now hackin
 
 ## Recommended OS Tested
 ![Screenshot 2024-12-06 at 23 34 03](https://github.com/user-attachments/assets/20bce156-44b5-4a41-ac1f-d12d0a04de09)
+## Installation
+Download the source code with Download button
+
+![Step 1](https://github.com/user-attachments/assets/9b9f5468-5a35-4ea1-b794-2cb7b631ac77)
 
 NOTE: This EFI Configuration will only work Fully with macOS Monterey - Sonoma the EFI may not work fully with older versions such as Catalina - Mojave USE AT YOUR RISK AM NOT RESPONSIBLE FOR ANY DAMAGES
 YOU DONE TO YOUR LAPTOP!
