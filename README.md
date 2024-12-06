@@ -14,6 +14,8 @@
 
 ## What Works✅
 - Hardware Acceleration
+- VAPPI Acceleration
+- WebGL
 - Wifi
 - Bluetooth
 - Keyboard
