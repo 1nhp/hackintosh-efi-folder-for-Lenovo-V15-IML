@@ -27,7 +27,7 @@
 | Touchpad| Works|Full|
 | USB| Works|Full|
 | AirDrop| Doesn't Work|I aint buying an Iphone to test it|
-| Battery Manager| Works|
+| Battery Manager| Works|Full|
 | Brightness| Works|Full|
 | HID| Works|Full|
 | Sleep| Doesn't Work|Couldn't manage to fix it perhaps theres no any kexts to fix it it seems to be an acpi issue?|
