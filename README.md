@@ -1,3 +1,5 @@
+An Hackintosh OpenCore EFI folder created specifically for the Laptop now hackintoshing is possible on that laptop!
+
 ## Recommended OS Tested
 ![Screenshot 2024-12-06 at 23 34 03](https://github.com/user-attachments/assets/20bce156-44b5-4a41-ac1f-d12d0a04de09)
 
