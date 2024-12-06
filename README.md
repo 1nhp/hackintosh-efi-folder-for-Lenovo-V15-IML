@@ -5,6 +5,7 @@
 | Laptop model      | Lenovo V15 IML     |
 | CPU           | Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz        |
 | CPU Generation           | Comet Lake        |
+| Display                  | 1920x1080 ISP     |
 | RAM              | 8GB DDR4 2666MHz              |
 | Hard Disk           | 256GB Toshiba SSD                |
 | Integrated Graphics | Intel CoffeeLake-H GT2 UHD Graphics 630                     |
