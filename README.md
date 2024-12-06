@@ -1,4 +1,5 @@
-![Screenshot 2024-12-06 at 23 34 03](https://github.com/user-attachments/assets/e612f896-8117-4d19-ad57-40b5f7956511)
+![Screenshot 2024-12-06 at 23 34 03](https://github.com/user-attachments/assets/e612f896-8117-4d19-ad57-40b5f7956511 {width=40px height=400px} )
+
 
 ## Laptop Specs
 
