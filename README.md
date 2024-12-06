@@ -31,6 +31,6 @@
 - Airdrop (obviously i aint spending my money on a iphone to test it)
 
 ## Credits
-Thanks to oralia these guys made making the hackintosh EFI for the Laptop possible! [oralia.com](https://olarila.com/)
-Opencore https://github.com/acidanthera/OpenCorePkg
-https://github.com/acidanthera/OpenCorePkg for the readme template
+- Thanks to oralia these guys made making the hackintosh EFI for the Laptop possible! [oralia.com](https://olarila.com/)
+- Opencore https://github.com/acidanthera/OpenCorePkg
+- https://github.com/acidanthera/OpenCorePkg for the readme template
