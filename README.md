@@ -14,7 +14,7 @@
 | Touchpad            | idk                               |
 
 ## What is working Table
-| Feature | Status                                                  |
+| Feature | Status                                                  |ass|
 | ------------------- | ------------------------------------------- |
 | Hardware Acceleration|Works|
 | VAPPI| Works|
@@ -32,6 +32,9 @@
 | HID| Works|
 | Sleep| Doesn't Work|
 | NTFS Write| Doesn't Work|
+| Dictation| Doesn't Work|
+| Head Cursor| Doesn't Work|
+| Touch Bar| Doesn't Work|
 ## Credits
 - Thanks to oralia these guys made making the hackintosh EFI for the Laptop possible! [oralia.com](https://olarila.com/)
 - Opencore https://github.com/acidanthera/OpenCorePkg
