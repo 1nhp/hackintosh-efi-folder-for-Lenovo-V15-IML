@@ -1,4 +1,4 @@
-<img src="[http://url.to/image.png](https://github-production-user-asset-6210df.s3.amazonaws.com/189168826/393411075-d7bef1e7-2fca-4064-bc92-d379a2487419.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241206T214018Z&X-Amz-Expires=300&X-Amz-Signature=e132e224746dd8f44019806bb6d404c806855b2e6e7de92c947b6ed6ab19ca3b&X-Amz-SignedHeaders=host)" align="center" height="48" width="48">
+<img src="(https://github-production-user-asset-6210df.s3.amazonaws.com/189168826/393411075-d7bef1e7-2fca-4064-bc92-d379a2487419.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241206T214018Z&X-Amz-Expires=300&X-Amz-Signature=e132e224746dd8f44019806bb6d404c806855b2e6e7de92c947b6ed6ab19ca3b&X-Amz-SignedHeaders=host)" align="center" height="48" width="48">
 
 
 ## Laptop Specs
