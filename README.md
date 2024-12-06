@@ -13,19 +13,15 @@
 | Wireless Card       | Intel Wireless AC 9560                        |
 | Touchpad            | idk                               |
 
-## What Works✅
-- Hardware Acceleration
-- VAPPI Acceleration
-- WebGL
-- Wifi
-- Bluetooth
-- Keyboard
-- Touchpad
-- Webcam
-- Audio (Microphone, Internal Speakers, headphones)
-- Battery Manager
-- Brightness
-- Apple ID (With spoofed SMBIOS)
+## What is working Table
+| Feature | Detail                                                  |
+| ------------------- | ------------------------------------------- |
+| Hardware Acceleration|Works            |
+| VAPPI                  | Works                     |
+| Sound          | Works                             |
+| Microphone     | Works                             |
+| Wi-Fi       | Works                                |
+| Touchpad            | Works                        |
 
 ## What Doesn't Work❎
 - Sleep (couldnt managed to fix it it wake ups after being sleeping bro is a all nighter(jk))
