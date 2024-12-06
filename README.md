@@ -29,7 +29,7 @@
 | AirDrop| Doesn't Work|
 | Battery Manager| Works|
 | Sleep| Doesn't Work|
-
+| NTFS Write| Doesn't Work|
 ## Credits
 - Thanks to oralia these guys made making the hackintosh EFI for the Laptop possible! [oralia.com](https://olarila.com/)
 - Opencore https://github.com/acidanthera/OpenCorePkg
