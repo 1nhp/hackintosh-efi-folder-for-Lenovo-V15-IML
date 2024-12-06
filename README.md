@@ -14,9 +14,9 @@
 | Touchpad            | idk                               |
 
 ## What is working Table
-| Feature | Status | Reason                                         |
-| ------------------- | ------------------------------------------- |
-| Hardware Acceleration|Works|
+| Feature | Status | Reason
+| ------------------- | ------|------------------------------------- |
+| Hardware Acceleration|Works|Everything|
 | VAPPI| Works|
 | Sound| Works|
 | Microphone| Works|
