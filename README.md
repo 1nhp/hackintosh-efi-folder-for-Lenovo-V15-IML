@@ -14,7 +14,7 @@
 | Touchpad            | idk                               |
 
 ## What is working Table
-| Feature | Status                                                  ass|
+| Feature | Status | Reason |
 | ------------------- | ------------------------------------------- |
 | Hardware Acceleration|Works|
 | VAPPI| Works|
