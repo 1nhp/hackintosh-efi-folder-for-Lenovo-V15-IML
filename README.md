@@ -1,4 +1,4 @@
-<img src"https://github.com/user-attachments/assets/e612f896-8117-4d19-ad57-40b5f7956511" width="48">
+![lol](https://github.com/user-attachments/assets/e612f896-8117-4d19-ad57-40b5f7956511)
 
 
 ## Laptop Specs
