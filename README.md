@@ -13,16 +13,16 @@
 | Touchpad            | idk                               |
 
 ## What Works✅
-Hardware Acceleration
-Wifi
-Bluetooth
-Keyboard
-Touchpad
-Webcam
-Audio (Microphone, Internal Speakers, headphones)
-Battery Manager
-Brightness
-Apple ID (With spoofed SMBIOS)
+- Hardware Acceleration
+- Wifi
+- Bluetooth
+- Keyboard
+- Touchpad
+- Webcam
+- Audio (Microphone, Internal Speakers, headphones)
+- Battery Manager
+- Brightness
+- Apple ID (With spoofed SMBIOS)
 
 ## What Doesn't Work❎
 Sleep (couldnt managed to fix it it wake ups after being sleeping bro is a all nighter(jk))
