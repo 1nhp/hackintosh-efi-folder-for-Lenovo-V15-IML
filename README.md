@@ -28,6 +28,8 @@
 | USB| Works|
 | AirDrop| Doesn't Work|
 | Battery Manager| Works|
+| Brightness| Works|
+| HID| Works|
 | Sleep| Doesn't Work|
 | NTFS Write| Doesn't Work|
 ## Credits
