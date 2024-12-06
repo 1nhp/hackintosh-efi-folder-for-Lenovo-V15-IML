@@ -5,7 +5,7 @@ An Hackintosh OpenCore EFI folder created specifically for the Laptop now hackin
 
 NOTE: This EFI Configuration will only work Fully with macOS Monterey - Sonoma the EFI may not work fully with older versions such as Catalina - Mojave USE AT YOUR RISK AM NOT RESPONSIBLE FOR ANY DAMAGES
 YOU DONE TO YOUR LAPTOP!
-
+See wiki for more info: [wiki](https://github.com/1nhp/hackintosh-efi-folder-for-Lenovo-V15-IML/wiki)
 ## Laptop Specs
 
 
