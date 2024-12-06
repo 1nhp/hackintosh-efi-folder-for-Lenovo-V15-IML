@@ -1,4 +1,4 @@
-![lol](https://github.com/user-attachments/assets/e612f896-8117-4d19-ad57-40b5f7956511)
+<a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
 
 
 ## Laptop Specs
