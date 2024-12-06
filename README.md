@@ -16,25 +16,26 @@
 ## What is working Table
 | Feature | Status | Reason
 | ------------------- | ------|------------------------------------- |
-| Hardware Acceleration|Works|Everything|
-| VAPPI| Works|
-| Sound| Works|
-| Microphone| Works|
-| Webcam| Works|
-| Wi-Fi| Works|
-| Bluetooth| Works|
-| Keyboard| Works|
-| Touchpad| Works|
-| USB| Works|
-| AirDrop| Doesn't Work|
+| Hardware Acceleration|Works|Full|
+| VAPPI| Works|Full|
+| Sound| Works|Full|
+| Microphone| Works|Full|
+| Webcam| Works|Full|
+| Wi-Fi| Works|Full|
+| Bluetooth| Works|Kinda|
+| Keyboard| Works|Full|
+| Touchpad| Works|Full|
+| USB| Works|Full|
+| AirDrop| Doesn't Work|I aint buying an Iphone to test it|
 | Battery Manager| Works|
-| Brightness| Works|
-| HID| Works|
-| Sleep| Doesn't Work|
-| NTFS Write| Doesn't Work|
-| Dictation| Doesn't Work|
-| Head Cursor| Doesn't Work|
-| Touch Bar| Doesn't Work|
+| Brightness| Works|Full|
+| HID| Works|Full|
+| Sleep| Doesn't Work|Couldn't manage to fix it perhaps theres no any kexts to fix it it seems to be an acpi issue?|
+| NTFS Write| Doesn't Work|Didnt put a driver to the EFI itself|
+| Dictation| Doesn't Work|Dunno why|
+| Head Cursor| Doesn't Work|Who needs this?|
+| Touch Bar| Doesn't Work|Does the laptop even have it?|
+
 ## Credits
 - Thanks to oralia these guys made making the hackintosh EFI for the Laptop possible! [oralia.com](https://olarila.com/)
 - Opencore https://github.com/acidanthera/OpenCorePkg
