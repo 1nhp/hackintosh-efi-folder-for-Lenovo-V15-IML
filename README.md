@@ -1,6 +1,6 @@
 ## Laptop Specs
 
-| Specifications | Detail                                                  |
+| Specs | Detail                                                  |
 | ------------------- | ------------------------------------------- |
 | Laptop model      | Lenovo V15 IML     |
 | CPU           | Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz        |
